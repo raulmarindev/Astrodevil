@@ -7,4 +7,3 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... loquacious
-
