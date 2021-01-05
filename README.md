@@ -1,5 +1,5 @@
-### Hi there 👋    (https://img.shields.io/twitter/follow/Astrodevil_?label=connect&logoColor=orange)
-                  **(https://img.shields.io/linkedin/follow/amitesh1208_?label=connect&logocolor=orange)**
+### Hi there 👋    [Twitter Follow](https://img.shields.io/twitter/follow/Astrodevil_?label=connect&logoColor=orange)
+                   (https://img.shields.io/linkedin/follow/amitesh1208_?label=connect&logocolor=orange)
 - 🔭 I’m currently working on ...Programming Skills
 - 🌱 I’m currently learning ...Web Dev & C Language
 - 🤔 I’m looking for help with ...HTML,CSS,js
