@@ -1,6 +1,6 @@
 ### Hi there 👋    
--  ![image](https://img.shields.io/badge/LinkedIn-orange/amitesh1208?style=for-the-badge&logo=linkedin&logoColor=white)
--  ![image](https://img.shields.io/badge/Twitter-orange/Astrodevil_?style=for-the-badge&logo=twitter&logoColor=white )                  
+-  [Twitter](https://www.twitter.com/Astrodevil_)
+-  [Linkedin](https://www.linkedin.com/amitesh1208)
 - 🔭 I’m currently working on ...Programming Skills
 - 🌱 I’m currently learning ...Web Dev & C Language
 - 🤔 I’m looking for help with ...HTML,CSS,js
