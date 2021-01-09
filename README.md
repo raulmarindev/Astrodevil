@@ -7,7 +7,7 @@
 
 - 🥅 2021 Goals **Contribute to Open Source projects**
 
-- 🤝 I’m looking for help with **HTML,CSS,js & C**
+- 🤝 I’m looking for help with **HTML,CSS, JS & C**
 
 - 💬 Ask me about **Anything**
 
