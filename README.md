@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **HTML,CSS, JS & C**
 
-- 💬 Ask me about **Anything**
+- 💬 Part Time **Blogger**
 
 - 😄 Pronouns **He/Him**
 
