@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" height="300px" src="https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif" />
+<img align="right" alt="GIF" height="300px" src="https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif" />
 
 <h1 align="center">Hi 👋, I'm Astrodevil</h1>
 <h3 align="center">A passionate Learner & Contributor from India</h3>
