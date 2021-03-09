@@ -1,4 +1,4 @@
-![ A](astrogif. gif) / ! [](astrogif. gif)
+![astrogif](https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif)
 
 <h1 align="center">Hi 👋, I'm Astrodevil</h1>
 <h3 align="center">A passionate Learner & Contributor from India</h3>
