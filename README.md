@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astrodevil</h1>
 <h3 align="center">A passionate Learner & Contributor from India</h3>
 
-<img align="right" alt="GIF" height="300px" src="https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif" />
+<img align="right" alt="GIF" height="200px" src="https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif" />
 
 - 🔭 I’m currently working on **Programming Skills**
 
