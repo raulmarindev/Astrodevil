@@ -9,7 +9,7 @@
 
 - 🥅 2021 Goals **Contribute to Open Source projects**
 
-- 🤝 I’m looking for help with **HTML,CSS, JS & C**
+[- 🤝 I’m looking for help with **HTML,CSS, JS & C**]:#
 
 - 💬 **GSSoC 2021** Participant **|** **MLH Local Hack Day:Build 2021** Participant
 
