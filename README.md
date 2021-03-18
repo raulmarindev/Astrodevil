@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **HTML,CSS, JS & C**
 
-[- 💬 haguia ui]:#
+- 💬 **GSSoC 2021** Participant **|** **MLH Local Hack Day:Build 2021** Participant
 
 - 😄 Pronouns **He/Him**
 
