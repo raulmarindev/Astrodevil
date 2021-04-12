@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=onedark&title_color=8cbb35&text_color=08c7f7&bg_color=0e2858&hide_border=true&locale=en&layout=compact" alt="astrodevil" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=astrodevil&show_icons=true&theme=radical&title_color=d3cc0d&text_color=15cbb6&bg_color=060d7a&hide_border=true&cache_seconds=1800&locale=en" alt="astrodevil" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=astrodevil&show_icons=true&theme=radical&title_color=d3cc0d&text_color=15cbb6&bg_color=060d7a&hide_border=true&cache_seconds=1800&locale=en" alt="astrodevil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast" alt="astrodevil" /></p>
