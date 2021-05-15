@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Programming Skills**
 
-- 🌱 I’m currently learning **Web Dev & C++**
+- 🌱 I’m currently learning **Web Dev & Java**
 
 - 🥅 2021 Goals **Contribute to Open Source projects**
 
