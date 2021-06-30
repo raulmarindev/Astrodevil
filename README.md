@@ -41,5 +41,5 @@
 
 [<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast" alt="astrodevil" /></p>]:#
   
-  ## If You Like What I Do, Consiter Buying Me a Coffee ☕: 
+  ## If You Like What I Do, Consider Buying Me a Coffee ☕: 
   <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="200" ></a>
