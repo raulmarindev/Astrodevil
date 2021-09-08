@@ -14,8 +14,8 @@
 <a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 <a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="40" width="40" /></a>
-  
+<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="55" width="40" /></a>
+ 
   
   [<a href="https://codepen.io/astrodevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="30" width="40" /></a>]:#
   [<a href="https://discord.gg/aRWvpnM6bU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>]:# 
