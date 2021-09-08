@@ -1,21 +1,12 @@
-<h1 align="center">Hi 👋, I'm Astrodevil</h1>
-<h3 align="center">A passionate Learner & Contributor from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astrodevil&label=Profile%20views&color=ff8000&style=plastic" alt="astrodevil" /> </p>
-<img align="right" alt="GIF" height="200px" src="https://github.com/Astrodevil/Astrodevil/blob/main/astrogif.gif" />
+## Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://komarev.com/ghpvc/?username=astrodevil&label=Profile%20views&color=ff8000&style=plastic" alt="astrodevil" />
 
-- 🔭 I’m currently working on **Programming Skills**
-
-- 🌱 I’m currently learning **Web Dev & more**
-
-- 🥅 2021 Goals **Contribute to Open Source projects**
-
-- 🤝 I’m looking for help with **HTML,CSS, JS**
-
-- 💬 **GSSoC 2021** Participant **|** **MLH Local Hack Day:Build 2021** Participant
-
-- 😄 Pronouns **He/Him**
-
-- ⚡ Fun fact **loquacious**
+## About Me✨
+👨🏼‍🎓 I am Amitesh Anand, currently pursuing my **Bachelor's in Computer Science Engineering**. 
+<br>
+🌱 I am currently learning **Java** and also interested in **Web Development**.
+<br>
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
