@@ -11,14 +11,13 @@
 <br>
 ## Connect With Me👋🏼
 <p align="left">  
-<a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="55" width="40" /></a>
+<a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="45" width="30" /></a>
 
  [<a href="https://bio.link/astrodevil" target="blank"><img src="https://github.com/Astrodevil/Astrodevil/blob/main/src/biolink.png" alt="Biodotlink" height="50" width="50"/></a>]::#
 
-[![Astrodevil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=xcode)](https://git.io/Astrodevil)
   
  
  
@@ -30,31 +29,36 @@
 </p>
     
 ## Technologies⚙️
-### Languages✍🏼
-<p align="left">  
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+### Languages✍🏼  
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
 
 ### DevOps & Cloud Tools⚒️
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/48/000000/canva.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
  
+## My Experiences🙌🏼
+- [GSSOC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
+- [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program): Selected as recipient, and currently attending the program.
+- [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
  
- 
-
 [<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:# 
  
+## My Other Works🎭
+<a href="https://astrodevil.gumroad.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bookmark--v1.png"/></a> 
+<a href="https://youtube.com/playlist?list=PL2ambAOfYA68XfMJ5tRTIUxwO7yQKavJQ" target="_blank"> <img src="https://img.icons8.com/bubbles/48/000000/video-playlist.png"/>
+<a href="https://open.spotify.com/show/09D8g7uKMongvRROtiiFrW?si=jw2FlE4NTyOkRUPRzsM_3A&dl_branch=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/browse-podcasts.png"/>
+<a href="https://www.getrevue.co/profile/astrodevil_" target="_blank"><img src="https://img.icons8.com/emoji/48/000000/love-letter-emoji.png"/>
+<a href="https://bio.link/astrodevil" target="blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-multimedia-kiranshastry-gradient-kiranshastry.png"/>
+ 
+## Support Me💰
+ <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
 
 
 ## Stats📈
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact" alt="astrodevil" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact" alt="astrodevil" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en" alt="astrodevil" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast" alt="astrodevil" />
 </p>
   
- ## Support Me💰
- <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="200" ></a>
+ 
