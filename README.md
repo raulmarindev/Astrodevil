@@ -1,24 +1,27 @@
 ## Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://komarev.com/ghpvc/?username=astrodevil&label=Profile%20views&color=ff8000&style=plastic" alt="astrodevil" />
 
-## About Me✨
-👨🏼‍🎓 I am Amitesh Anand, currently pursuing my **Bachelor's in Computer Science Engineering**. 
+## About Me🧑🏼‍💻
+🎓 I am Amitesh Anand, currently pursuing my **Bachelor's in Computer Science Engineering**. 
 <br>
 🌱 I am currently learning **Java** and also interested in **Web Development**.
 <br>
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 <br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/astrodevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="30" width="40" /></a>
-<a href="https://twitter.com/astrodevil_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amitesh1208" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amitesh1208" height="30" width="40" /></a>
-<a href="https://discord.gg/aRWvpnM6bU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amitesh anand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="amitesh anand" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anandamitesh0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anandamitesh0812" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Astro_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="30" width="40" /></a> 
-  <a href="https://www.codechef.com/users/astro_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="astro_08" height="30" width="40" /></a>
+✨ I love to create different types of **contents**.
+<br>
+## Connect With Me👋🏼
+<p align="left">  
+<a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="40" width="40" /></a>
+  
+  
+  [<a href="https://codepen.io/astrodevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="30" width="40" /></a>]:#
+  [<a href="https://discord.gg/aRWvpnM6bU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>]:# 
+  [<a href="https://www.hackerrank.com/anandamitesh0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anandamitesh0812" height="30" width="40" /></a>]:#  
+  [<a href="https://www.codechef.com/users/astro_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="astro_08" height="30" width="40" /></a>]:#
+  
 </p>
     
 
