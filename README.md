@@ -1,7 +1,7 @@
 ## Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://komarev.com/ghpvc/?username=astrodevil&label=Profile%20views&color=ff8000&style=plastic" alt="astrodevil" />
 
 ## About Me🧑🏼‍💻
-🎓 I am Amitesh Anand, currently pursuing my **Bachelor's in Computer Science Engineering**. 
+🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. 
 <br>
 🌱 I am currently learning **Java** and also interested in **Web Development**.
 <br>
