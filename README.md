@@ -9,6 +9,9 @@
 <br>
 ✨ I love to create different types of **contents**.
 <br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=radical)
+
 ## Connect With Me👋🏼
 <p align="left">  
 <a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
