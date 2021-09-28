@@ -10,7 +10,7 @@
 ✨ I love to create different types of **contents**.
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula)
 
 ## Connect With Me👋🏼
 <p align="left">  
