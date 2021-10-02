@@ -18,7 +18,8 @@
 <a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Astro08" height="45" width="30" /></a>
-
+<a href="https://www.instagram.com/_asd12__/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+ 
  [<a href="https://bio.link/astrodevil" target="blank"><img src="https://github.com/Astrodevil/Astrodevil/blob/main/src/biolink.png" alt="Biodotlink" height="50" width="50"/></a>]::#
 
   
