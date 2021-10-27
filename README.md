@@ -66,7 +66,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast" alt="astrodevil" />
 </p>
   
-## Recent Activity🔍 
+## Recent Activity⚡ 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#16](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/16) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 2. 🎉 Merged PR [#64](https://github.com/Astrodevil/Programming-Basics/pull/64) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
