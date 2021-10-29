@@ -76,6 +76,8 @@
  
 ## My Latest Blog Posts📖
 <!-- HASHNODE_BLOG:START -->
+- [How NOT to contribute to Open Source on GitHub: Tips For Beginners](https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners-ckv9wyt5s0d7hg8s1ashf6ztr)
+- [Some Apps You Should Use As a Student Developer](https://astrodevil.hashnode.dev/some-apps-for-student-developer-ckqpdxiij0ug0s2s1eh1zeapk)
 <!-- HASHNODE_BLOG:END -->
 
 ## My Other Works🎭
