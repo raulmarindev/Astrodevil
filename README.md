@@ -67,11 +67,11 @@
   
 ## Recent Activity⚡ 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#402](https://github.com/Astrodevil/Programming-Basics/issues/402) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-2. 🎉 Merged PR [#403](https://github.com/Astrodevil/Programming-Basics/pull/403) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-3. 🎉 Merged PR [#355](https://github.com/Astrodevil/Programming-Basics/pull/355) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-4. ❗️ Closed issue [#274](https://github.com/Astrodevil/Programming-Basics/issues/274) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. 🗣 Commented on [#276](https://github.com/Astrodevil/Programming-Basics/issues/276) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+1. 🎉 Merged PR [#276](https://github.com/Astrodevil/Programming-Basics/pull/276) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+2. ❗️ Closed issue [#402](https://github.com/Astrodevil/Programming-Basics/issues/402) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+3. 🎉 Merged PR [#403](https://github.com/Astrodevil/Programming-Basics/pull/403) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+4. 🎉 Merged PR [#355](https://github.com/Astrodevil/Programming-Basics/pull/355) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+5. ❗️ Closed issue [#274](https://github.com/Astrodevil/Programming-Basics/issues/274) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
  
 ## My Latest Blog Posts📖
