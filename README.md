@@ -41,7 +41,7 @@
  
 ## My Experiences🙌🏼
 - [GSSOC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
-- [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program): Selected as recipient, and currently attending the program.
+- [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as maintainer.
 - [MLH Hackathons](https://mlh.io/): Participated in [Local Hack Day: Build](https://organize.mlh.io/participants/events/6072-local-hack-day-build) and [Local Hack Day: Share](https://organize.mlh.io/participants/events/6430-local-hack-day-share).
 - [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/enrol-in-the-program/#content): Completed Labs and challenges in [Qwiklabs](https://www.qwiklabs.com/public_profiles/f3d65b58-4359-4795-96da-1241061ad207).
  
@@ -55,9 +55,6 @@
 <a href="https://www.getrevue.co/profile/astrodevil_" target="_blank"><img src="https://img.icons8.com/emoji/48/000000/love-letter-emoji.png"/>
 <a href="https://bio.link/astrodevil" target="blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-multimedia-kiranshastry-gradient-kiranshastry.png"/>
  
-## Support Me💰
- <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
-
 
 ## Stats📈
 <p align="center">
@@ -74,3 +71,11 @@
 4. ❗️ Closed issue [#274](https://github.com/Astrodevil/Programming-Basics/issues/274) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 5. 🗣 Commented on [#276](https://github.com/Astrodevil/Programming-Basics/issues/276) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
+ 
+## My Latest Blog Posts📖
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+ 
+ ## Support Me💰
+ <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
