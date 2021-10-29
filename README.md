@@ -56,14 +56,8 @@
 [<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:# 
  
-## My Other Works🎭
-<a href="https://astrodevil.gumroad.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bookmark--v1.png"/></a> 
-<a href="https://youtube.com/playlist?list=PL2ambAOfYA68XfMJ5tRTIUxwO7yQKavJQ" target="_blank"> <img src="https://img.icons8.com/bubbles/48/000000/video-playlist.png"/>
-<a href="https://open.spotify.com/show/09D8g7uKMongvRROtiiFrW?si=jw2FlE4NTyOkRUPRzsM_3A&dl_branch=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/browse-podcasts.png"/>
-<a href="https://www.getrevue.co/profile/astrodevil_" target="_blank"><img src="https://img.icons8.com/emoji/48/000000/love-letter-emoji.png"/>
-<a href="https://bio.link/astrodevil" target="blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-multimedia-kiranshastry-gradient-kiranshastry.png"/>
- 
 
+ 
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact" alt="astrodevil" /> 
@@ -84,6 +78,12 @@
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
- 
- ## Support Me💰
- <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+## My Other Works🎭
+<a href="https://astrodevil.gumroad.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bookmark--v1.png"/></a> 
+<a href="https://youtube.com/playlist?list=PL2ambAOfYA68XfMJ5tRTIUxwO7yQKavJQ" target="_blank"> <img src="https://img.icons8.com/bubbles/48/000000/video-playlist.png"/>
+<a href="https://open.spotify.com/show/09D8g7uKMongvRROtiiFrW?si=jw2FlE4NTyOkRUPRzsM_3A&dl_branch=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/browse-podcasts.png"/>
+<a href="https://www.getrevue.co/profile/astrodevil_" target="_blank"><img src="https://img.icons8.com/emoji/48/000000/love-letter-emoji.png"/>
+<a href="https://bio.link/astrodevil" target="blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-multimedia-kiranshastry-gradient-kiranshastry.png"/>
+
+## Support Me💰
+<a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
