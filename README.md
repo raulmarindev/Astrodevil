@@ -67,11 +67,11 @@
   
 ## Recent Activity⚡ 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/132) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. ❗️ Closed issue [#118](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/118) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. ❌ Closed PR [#119](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/119) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🎉 Merged PR [#398](https://github.com/Astrodevil/Programming-Basics/pull/398) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. 🎉 Merged PR [#410](https://github.com/Astrodevil/Programming-Basics/pull/410) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+1. ❗️ Opened issue [#6](https://github.com/drkPrince/tweet-to-image/issues/6) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
+2. 🗣 Commented on [#5](https://github.com/drkPrince/tweet-to-image/issues/5) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
+3. 🎉 Merged PR [#132](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/132) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. ❗️ Closed issue [#118](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/118) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. ❌ Closed PR [#119](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/119) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
  
 ## My Latest Blog Posts📖
