@@ -67,11 +67,11 @@
   
 ## Recent Activity⚡ 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/drkPrince/tweet-to-image/issues/6) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
-2. 🗣 Commented on [#5](https://github.com/drkPrince/tweet-to-image/issues/5) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
-3. 🎉 Merged PR [#132](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/132) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. ❗️ Closed issue [#118](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/118) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. ❌ Closed PR [#119](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/119) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🎉 Merged PR [#362](https://github.com/Astrodevil/Programming-Basics/pull/362) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+2. ❌ Closed PR [#261](https://github.com/Astrodevil/Programming-Basics/pull/261) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+3. 🎉 Merged PR [#78](https://github.com/Astrodevil/Programming-Basics/pull/78) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+4. 🎉 Merged PR [#390](https://github.com/Astrodevil/Programming-Basics/pull/390) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+5. ❗️ Closed issue [#388](https://github.com/Astrodevil/Programming-Basics/issues/388) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
  
 ## My Latest Blog Posts📖
