@@ -67,11 +67,11 @@
   
 ## Recent Activity⚡ 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#102](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/102) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 🎉 Merged PR [#362](https://github.com/Astrodevil/Programming-Basics/pull/362) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-3. ❌ Closed PR [#261](https://github.com/Astrodevil/Programming-Basics/pull/261) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-4. 🎉 Merged PR [#78](https://github.com/Astrodevil/Programming-Basics/pull/78) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. 🎉 Merged PR [#390](https://github.com/Astrodevil/Programming-Basics/pull/390) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+1. ❌ Closed PR [#100](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/100) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. ❌ Closed PR [#131](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/131) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. ❌ Closed PR [#99](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/99) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. ❌ Closed PR [#123](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/123) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. 🎉 Merged PR [#204](https://github.com/Astrodevil/Programming-Basics/pull/204) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
  
 ## My Latest Blog Posts📖
