@@ -13,7 +13,7 @@
 
 ✨ I love to create different types of **contents**.
 <td >
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=3jv" width="300" alt="Mr. Ånand's Dev Card"/></a>
+      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=77q" width="300" alt="Mr. Ånand's Dev Card"/></a>
     </td>
   </tr>
   </table>
