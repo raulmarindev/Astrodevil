@@ -70,11 +70,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Astrodevil/Astrodevil/pull/2) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
-2. 🎉 Merged PR [#248](https://github.com/Astrodevil/Programming-Basics/pull/248) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-3. ❗️ Opened issue [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❌ Closed PR [#160](https://github.com/Astrodevil/Programming-Basics/pull/160) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. 🎉 Merged PR [#253](https://github.com/Astrodevil/Programming-Basics/pull/253) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+1. 🎉 Merged PR [#3](https://github.com/Astrodevil/Astrodevil/pull/3) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
+2. 🗣 Commented on [#3](https://github.com/Astrodevil/Astrodevil/issues/3) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
+3. 🎉 Merged PR [#2](https://github.com/Astrodevil/Astrodevil/pull/2) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
+4. 🎉 Merged PR [#248](https://github.com/Astrodevil/Programming-Basics/pull/248) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+5. ❗️ Opened issue [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
