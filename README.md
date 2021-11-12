@@ -89,7 +89,7 @@
 
 <a href="https://astrodevil.gumroad.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bookmark--v1.png"/></a> 
 <a href="https://youtube.com/playlist?list=PL2ambAOfYA68XfMJ5tRTIUxwO7yQKavJQ" target="_blank"> <img src="https://img.icons8.com/bubbles/48/000000/video-playlist.png"/>
-<a href="https://open.spotify.com/show/09D8g7uKMongvRROtiiFrW?si=jw2FlE4NTyOkRUPRzsM_3A&dl_branch=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/browse-podcasts.png"/>
+<a href="https://astrodevil.hashnode.dev/withanand-podcast" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/browse-podcasts.png"/>
 <a href="https://www.getrevue.co/profile/astrodevil_" target="_blank"><img src="https://img.icons8.com/emoji/48/000000/love-letter-emoji.png"/>
 <a href="https://bio.link/astrodevil" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/48/000000/external-more-interface-kiranshastry-gradient-kiranshastry.png"/>
   
