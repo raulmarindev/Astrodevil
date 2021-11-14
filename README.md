@@ -6,6 +6,8 @@
   <tr>
     <td valign="center">
 
+ ### <h2 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h2>
+      
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
 🌱 I am currently learning **Java** and also interested in **Web Development**.
@@ -14,14 +16,14 @@
 
 ✨ I love to create different types of **contents**.
 
- ### <h1 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h1>
- 
       
 <td >
       <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=77q" width="300" alt="Mr. Ånand's Dev Card"/></a>
     </td>
+    
   </tr>
   </table>
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula)
 
