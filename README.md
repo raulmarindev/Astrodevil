@@ -5,8 +5,6 @@
 <table>
   <tr>
     <td valign="center">
-
- ### <h2 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h2>
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
@@ -24,7 +22,7 @@
   </tr>
   </table>
  
-
+ ### <h2 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula)
 
 ## Connect With Me👋🏼
