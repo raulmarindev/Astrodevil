@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#411](https://github.com/Astrodevil/Programming-Basics/issues/411) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-2. ❗️ Opened issue [#101](https://github.com/Tech-Phantoms/community/issues/101) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-3. 🎉 Merged PR [#352](https://github.com/Astrodevil/Programming-Basics/pull/352) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-4. ❌ Closed PR [#89](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/89) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 🎉 Merged PR [#3](https://github.com/Astrodevil/Astrodevil/pull/3) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
+1. 🎉 Merged PR [#258](https://github.com/Astrodevil/Programming-Basics/pull/258) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+2. ❌ Closed PR [#179](https://github.com/Astrodevil/Programming-Basics/pull/179) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+3. ❗️ Opened issue [#411](https://github.com/Astrodevil/Programming-Basics/issues/411) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+4. ❗️ Opened issue [#101](https://github.com/Tech-Phantoms/community/issues/101) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+5. 🎉 Merged PR [#352](https://github.com/Astrodevil/Programming-Basics/pull/352) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
