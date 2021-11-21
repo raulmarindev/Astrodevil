@@ -1,6 +1,6 @@
-# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://komarev.com/ghpvc/?username=astrodevil&label=Profile%20views&color=ff8000&style=plastic" alt="astrodevil" />
+# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## About Me🧑🏼‍💻
+## About Me 🧑🏼‍💻
 
 <table>
   <tr>
@@ -23,9 +23,9 @@
   </table>
  
  ### <h2 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h2>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula&hide_border=true)
 
-## Connect With Me👋🏼
+## Connect With Me 👋🏼
 
 <p align="left">  
 <a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
@@ -65,9 +65,9 @@
 ## Stats📈
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact" alt="astrodevil" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en" alt="astrodevil" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast" alt="astrodevil" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="astrodevil" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="astrodevil" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast&hide_border=true" alt="astrodevil" />
 </p>
   
 ## Recent Activity⚡
