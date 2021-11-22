@@ -83,9 +83,9 @@
 ## My Latest Blog Posts📖
 
 <!-- HASHNODE_BLOG:START -->
+- [Some Cool GitHub Actions You Won't Believe Exists](https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists-ckw8v67jx0e23e7s14ku3ce9z)
 - [Are You A Coder? Here Are 20 Top Tips From The Coding Community](https://astrodevil.hashnode.dev/are-you-a-coder-here-are-20-top-tips-from-the-coding-community-ckvseezz005gd8as13oc9evoi)
 - [Open-Source Programs Students Can Apply To In November 2021](https://astrodevil.hashnode.dev/open-source-programs-students-can-apply-to-in-november-2021-ckvjvh60o065c7ls1cpcdbdx1)
-- [How NOT to contribute to Open Source on GitHub: Tips For Beginners](https://astrodevil.hashnode.dev/how-not-to-contribute-to-open-source-on-github-tips-for-beginners-ckv9wyt5s0d7hg8s1ashf6ztr)
 <!-- HASHNODE_BLOG:END -->
 
 ## My Other Works🎭
