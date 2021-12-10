@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="Astro08" height="35" width="35"/></a>
-<a href="https://www.instagram.com/_asd12__/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="https://www.instagram.com/codes.astro/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 
 
  [<a href="https://codepen.io/astrodevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
