@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/NOiR-07/NOiR-07/issues/1) in [NOiR-07/NOiR-07](https://github.com/NOiR-07/NOiR-07)
-2. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#4](https://github.com/Astrodevil/Astrodevil/pull/4) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
-4. 🎉 Merged PR [#346](https://github.com/Astrodevil/Programming-Basics/pull/346) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-5. ❌ Closed PR [#227](https://github.com/Astrodevil/Programming-Basics/pull/227) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+1. ❗️ Opened issue [#138](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/138) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. ❗️ Opened issue [#1](https://github.com/NOiR-07/NOiR-07/issues/1) in [NOiR-07/NOiR-07](https://github.com/NOiR-07/NOiR-07)
+3. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#4](https://github.com/Astrodevil/Astrodevil/pull/4) in [Astrodevil/Astrodevil](https://github.com/Astrodevil/Astrodevil)
+5. 🎉 Merged PR [#346](https://github.com/Astrodevil/Programming-Basics/pull/346) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
