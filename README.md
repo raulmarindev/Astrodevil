@@ -73,10 +73,10 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/150) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 🗣 Commented on [#1](https://github.com/ZeroOctave/Full-Stack-Web-Development-Projects/issues/1) in [ZeroOctave/Full-Stack-Web-Development-Projects](https://github.com/ZeroOctave/Full-Stack-Web-Development-Projects)
-3. 🎉 Merged PR [#137](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/137) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🗣 Commented on [#137](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/137) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. ❗️ Closed issue [#151](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/151) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🗣 Commented on [#150](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/150) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. 🗣 Commented on [#1](https://github.com/ZeroOctave/Full-Stack-Web-Development-Projects/issues/1) in [ZeroOctave/Full-Stack-Web-Development-Projects](https://github.com/ZeroOctave/Full-Stack-Web-Development-Projects)
+4. 🎉 Merged PR [#137](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/137) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 5. 🗣 Commented on [#137](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/137) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
