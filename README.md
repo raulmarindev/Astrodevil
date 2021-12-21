@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. ❗️ Closed issue [#152](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/152) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🗣 Commented on [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🎉 Merged PR [#150](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/150) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 🗣 Commented on [#149](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/149) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🎉 Merged PR [#1](https://github.com/Astrodevil/Open-Source-Gallery/pull/1) in [Astrodevil/Open-Source-Gallery](https://github.com/Astrodevil/Open-Source-Gallery)
+2. 🎉 Merged PR [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. ❗️ Closed issue [#152](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/152) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🗣 Commented on [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. 🎉 Merged PR [#150](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/150) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
