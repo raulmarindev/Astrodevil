@@ -22,7 +22,7 @@
   </tr>
   </table>
  
- ### <h2 align="center">[Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)</h2>
+ ### <h2 align="center">[Open Source Gallery📚](https://astrodevil.github.io/Open-Source-Gallery/)</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula&hide_border=true)
 
 ## Connect With Me👋🏼
