@@ -83,9 +83,9 @@
 ## My Latest Blog Posts📖
 
 <!-- HASHNODE_BLOG:START -->
+- [All Resources To Help You Start Your Open-Source Journey: Open Source Gallery](https://astrodevil.hashnode.dev/all-resources-to-help-you-start-your-open-source-journey-open-source-gallery-ckxot8us505rksns1gde05i1j)
 - [40+ No Code/Low Code Tools And Resources For Developers In 2022](https://astrodevil.hashnode.dev/40-no-codelow-code-tools-and-resources-for-developers-in-2022-ckx808mpp02ggz7s11gza0xk4)
 - [25 Must-Visit Killer Websites For Developers](https://astrodevil.hashnode.dev/25-must-visit-killer-websites-for-developers-ckwo0lu2d0d922ds1a46rdhsx)
-- [Some Cool GitHub Actions You Won't Believe Exists](https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists-ckw8v67jx0e23e7s14ku3ce9z)
 <!-- HASHNODE_BLOG:END -->
 
 ## My Other Works🎭
