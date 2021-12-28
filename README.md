@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/11) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-2. 🎉 Merged PR [#1](https://github.com/Astrodevil/Open-Source-Gallery/pull/1) in [Astrodevil/Open-Source-Gallery](https://github.com/Astrodevil/Open-Source-Gallery)
-3. 🎉 Merged PR [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. ❗️ Closed issue [#152](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/152) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 🗣 Commented on [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🗣 Commented on [#156](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/156) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🎉 Merged PR [#11](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/11) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
+3. 🎉 Merged PR [#1](https://github.com/Astrodevil/Open-Source-Gallery/pull/1) in [Astrodevil/Open-Source-Gallery](https://github.com/Astrodevil/Open-Source-Gallery)
+4. 🎉 Merged PR [#155](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/155) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. ❗️ Closed issue [#152](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/152) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
