@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#175](https://github.com/markodenic/awesome-tech-blogs/pull/175) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-2. ❗️ Opened issue [#174](https://github.com/web3community/start-here/issues/174) in [web3community/start-here](https://github.com/web3community/start-here)
-3. 🎉 Merged PR [#14](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/14) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-4. 🎉 Merged PR [#13](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/13) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-5. 🎉 Merged PR [#12](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/12) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
+1. 🎉 Merged PR [#414](https://github.com/Astrodevil/Programming-Basics/pull/414) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+2. 💪 Opened PR [#175](https://github.com/markodenic/awesome-tech-blogs/pull/175) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. ❗️ Opened issue [#174](https://github.com/web3community/start-here/issues/174) in [web3community/start-here](https://github.com/web3community/start-here)
+4. 🎉 Merged PR [#14](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/14) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
+5. 🎉 Merged PR [#13](https://github.com/ZeroOctave/ZeroOctave.github.io/pull/13) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
