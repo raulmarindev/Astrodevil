@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/138) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 🎉 Merged PR [#157](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/157) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🎉 Merged PR [#414](https://github.com/Astrodevil/Programming-Basics/pull/414) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-4. 💪 Opened PR [#175](https://github.com/markodenic/awesome-tech-blogs/pull/175) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-5. ❗️ Opened issue [#174](https://github.com/web3community/start-here/issues/174) in [web3community/start-here](https://github.com/web3community/start-here)
+1. 🗣 Commented on [#17](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/17) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
+2. 🗣 Commented on [#138](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/138) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. 🎉 Merged PR [#157](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/157) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🎉 Merged PR [#414](https://github.com/Astrodevil/Programming-Basics/pull/414) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+5. 💪 Opened PR [#175](https://github.com/markodenic/awesome-tech-blogs/pull/175) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
