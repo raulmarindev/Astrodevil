@@ -73,11 +73,11 @@
 ## Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#153](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/153) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. ❗️ Closed issue [#154](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/154) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🗣 Commented on [#17](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/17) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
-4. 🗣 Commented on [#138](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/138) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 🎉 Merged PR [#157](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/157) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. ❗️ Closed issue [#160](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/160) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🗣 Commented on [#160](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/160) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. ❗️ Closed issue [#153](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/153) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. ❗️ Closed issue [#154](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/154) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. 🗣 Commented on [#17](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/17) in [ZeroOctave/ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io)
 <!--END_SECTION:activity-->
 
 ## My Latest Blog Posts📖
